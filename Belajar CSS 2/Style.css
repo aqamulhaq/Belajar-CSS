@@ -1,0 +1,45 @@
+.logo {
+    
+}
+
+.navigasi {
+    display: inline;
+}
+
+.navigasi a {
+    color: white;
+    text-decoration: none;
+}
+
+.navigasi a:hover {
+    font-weight: bold;
+    font-size: large;
+    color: rgb(224, 1, 1);
+}
+
+h1 {
+    font-family: Arial;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(224, 1, 1);
+    text-align: center;
+    font-size: 50px;
+    line-height: 10px;
+}
+p {
+    
+    line-height: 20px;
+    font font-family: Arial;
+    color: white;
+}
+
+body {
+    background-image: url(image/dark-honeycomb.png) ;
+}
+.putih {
+    color: white;
+}
+form button {
+    color: brown;
+    
+}
